@@ -1,0 +1,243 @@
+Name,email,Location,Phone,Summary,Academic_Credentials,ACADEMIC_PROJECTS,Technology,KEY_PROJECTS,WORK_EXPERIENCE,KEY_SKILLS ,ACCOLADES
+ASHA M JOHN,ashamjohn@gmail.com,Bangalore,9946145273,"12+  years of total IT industry experience encompassing a wide range of skill set, roles and industry verticals which includes 8 years of Java/J2EE application development and 4 years of Hadoop development.","• PG Diploma in Data Science I  IIIT-Bangalore & UpGrad             Since October 2017
+A comprehensive 11-month program taught by Industry experts and IIITB faculty; 7 case studies & projects; 400+ hours of academic learning & 30+ hours of industry mentoring
+? Master of Computer Applications                                                                                 September 2005
+Marthoma Institute of Information Technology | University of Kerala, Trivandrum   
+? B.Sc Computer Science                            May 2002
+        PGP College of Arts & Science | Periyar University, Salem
+","HR Analytics
+Automobiles price prediction
+",,"• CRM 3.0 is a transformational corporate marketing initiative for the client. CRM 3.0 is intended to support and enhance the client’s existing marketing efforts and deliver new innovations that will enable them to deliver the right content , customized to the individual, at the right time and place, and through the right channel. CRM 3.0 is a BigData and Analytics implementation built as a platform to enable rollout to 40+ brands across USA and Canada. 
+o Environment: Datastax Cassandra, Cloudera Bigdata cluster, Microservices (NodeJS and Angular JS) , CA Layer 7, TIBCO EMS, Informatica BDM,AWS Cloud
+• Helix is built on Lamda architecture to collect the data and transactions from different sources in airline operations into Data Lake and to generate a single view of the customer. 
+o Environment: Hadoop, HDFS, MapReduce, Hive, Oozie, Sqoop, Java, Python, Spark, Elastic Search, Cloudera Cluster
+• GSL ARAS for UAE : ARAS presents an automated and interactive solution, secures the borders, makes travel hassle free and brings cost savings to the transport industry
+o Environment: Java, Spring MVC, Spring IOC, Spring JDBC, JMS, Tomcat, Oracle,Cruise Control, Jenkins, Ant, and Unix
+• GSL ARAS for Qatar and Saudi: For Governments and their security agencies, who need to handle traveler’s crossing their borders, the ARAS is a product that enhances their ability to monitor traveler’s pre-departure, thereby ensuring security of their borders, and facilitating smooth flow of the vast majority.
+o Environment: Java, Spring MVC, Spring IOC, Spring JDBC, JMS, Tomcat, Oracle,Cruise Control, Jenkins, Ant, and Unix
+• Online Reservation System - JLR Portal: An online reservation portal developed for Jungle Lodges and Resorts Ltd which promotes Eco-tourism, wildlife tourism, adventure tourism and various outdoor activities like trekking, camping, white water rafting, fishing etc.
+o Environment:Java 1.6, JSP, Spring, Hibernate, Annotations, Liferay Portal Server 6.0, MySQL5, JBoss, jQuery
+• E-Governace System - Citizen Facilitation Center – for Navi Mumbai  : CFC (Citizen Facilitation Center) will facilitates the NMMC to deliver the citizen centric services through a single window system.
+• Citizen Services – Delivery Portal : The e-Services Portal mit online forms for the services identified by the state to be delivered online and through Lok Seva Kendras (LSKs).
+• Directorate of Technical Education : Application for the automation of the three departments in the Dept.of IT, Government of Goa.
+• e-Governance Application for Directorate of Higher Education, Goa : Through this system the authorities could easily but efficiently manage sections includes Budget Preparation ,Allotments of Funds(Account Section), Appointing, Promotion ,Transfer & Retirement of Staffs (Establishment Section) ,Payment Fixation, Goa Scholars, Recurring Grants(Audit Section) ,etc
+• e-Governance System for Department of Forest : The application system conceived to be aiding the automation of administrative practices of the DoF from the paper system to digital system and conservation of the Government forest as well as regulating felling of trees.
+• Finance Tracking System
+• NWKRTC and NEKRTC
+• Parts Information and Inventory Management of Manufacturing Company(IMMC)
+","• Working as a Technical Lead in Mindtree Ltd.,Bangalore[April 2012 – Tille Date]
+• Worked as a Senior Software Engineer in MARS Telecom Systems Pvt.Ltd, Bangalore.[Dec 2008 – April 2012]
+• Worked as a Software Engineer in Object Technologies, Bangalore. [Feb 2006-Dec 2008]
+","Machine Learning Linear, Logistic, and Classification modelling Techniques  
+Analytics Languages: R (Intermediate), Python (Introductory)
+Bigdata Tools : Hadoop 1.0 & 2.0 (YARN ),Map-Reduce, PIG, HIVE, Flume, Sqoop, Oozie, Impala,Spark, HBase, Sentry, Elastic Search, Cassandra, Apache NiFi, Apache Kylo
+Cloud : Amazon AWS, Microsoft AWS  
+Visualization tools: Tableau, R     
+Hypothesis Testing, Statistics & Exploratory Data Analysis   
+Databases: SQL Server 2008, Oracle 11g, MySQL
+Programming: Java, Scala   
+Web Technologies:Java/J2EE(Java/J2EE,Spring,Hibernate,Struts,Servlets,JSP,JDBC,JSTL,Ajax,Design Patterns, Database, Spring Restful Web Services, Spring Security Framework, Quartz, JMS, JBPM, DWR, jQuery, Oracle, MySQL, JSON, Scala)
+Software Development Life Cycle (SDLC, Agile(Scrum))
+","? Unstoppable award from the Architect for helping team to accomplish its goals. 
+? Spot on award from Development Lead for the commitment and effort in chasing goals.
+? A-team award for providing solution being part of the team.
+"
+Natarajan Ganapathi,Natarajan.Ganapathi@outlook.com,,+91 9962802777,"? Data and Analytics professional with 16+ years of experience in Consulting, Solutions & Delivery across multiple industry verticals, predominantly in Financial Services, Insurance & Retail. 
+? Primary expertise in Data Engineering, Data Analysis, Data Visualization & Predictive Analytics in different products, tools and languages. 
+? Played varied roles in both leadership as well as Individual Contributor roles and working in the intersection of business, data & technology
+","? Post Graduate Diploma in Data Science from IIIT Bangalore : 11-month intensive program with courses covering, Data Management, Inferential Statistics, EDA, Predictive Analytics, Machine Learning, Big Data Analytics & Capstone Project (Ongoing). 
+? Master of Technology (M. Tech)  in Industrial Engineering from Indian Institute of Technology, Delhi 
+? Bachelor of Engineering in Mechanical Engineering from AMA College of Engineering, Tamilnadu.
+",,"
+
+","? Delivered a client exploration & 360 view dashboard solution for UW division of a Lloyds syndicate. Work included data understanding, data preparation in SQL and data modelling, definition of calculations and measures in Power BI. Data enriched with external data from D&B for achieving the unique customer view across multiple risk lines. Delivered the solution in a short span of 2 months as an independent consultant along with UX consultant supporting the wireframe and visual design.
+? Worked for a large luxury goods manufacturer on a consulting engagement to build predictive analytics model proof of concept which is planned to be integrated into the field. As a part of the assignment, two use cases were identified in order to predict the interval duration of the harvest (to optimize the logistics, manpower involved in harvesting) and also to predict the sugar level in the yield for the season based on the predictors ranging from soil metrics, weather conditions at different phases.
+? A leading multi-channel retailer in UK. Objective of this project is to identify and deliver key metrics that would provide deeper customer insights and improve customer experience across different touch points. Key use cases identified include RFM, LTV, Segmentation and Churn analysis. Predictive use cases are delivered using combination of R, SPSS and Alteryx. Data visualizations R-Shiny and PowerBI. 
+? Lead a consulting assignment for a pharmaceutical company in Europe, to revamp their BI systems. Work included assessment of existing BI infrastructure, identifying problem areas and provide roadmap, implementation plan and business case for Future state BI solution. 
+? Delivered a dashboard solution for commercial operations of customer in covering subject areas Sales and Marketing operations, sales force effectiveness & Sales forecasting. Solution included data preparation, creating PDM, dashboards in Power BI. Deployment on PowerBI service of Office 365. 
+? Worked on a consulting assignment to build a forecasting model using time series. Delivered data preparation, data cleansing, model building and evaluation workflows with Alteryx & R.
+? Worked on a consulting assignment for a conciergerie service provided in Singapore to redesign Datamart (SQL Server), cubes (SSAS) and reports (SSRS & Power View) as the existing solution had performance and usability issues. Solution included redesigning the data model into a dimensional form, moving the computational logics from SSAS (MDX) and macros into ETL (SSIS) and rebuilding the SSAS Cubes (Tabular) and delivering reports through SSRS and PowerView.
+
+? Delivered projects in the area of risk fraud, acquiring and payment automation which were in different stages of execution with solution delivery spread across multiple systems in the organization including core card processing platform, data warehouse, mobile applications etc.
+? Successfully delivered EMV implementation project for the clearing and settlement process with the network. 
+? Worked on Implementation of a credit scoring model for charge and corporate card portfolio to assess the credit risk. Involved in data preparation and analysis, variables selection for regional customization, model validation and fine tuning using SAS, SQL.
+? Worked on building and delivering a data mart for Credit Risk and Fraud, hosted on SQL server by integrating data from Switch, Network Authorization data feeds and core card platform. 
+? Delivered phased migration projects aimed at migrating the company’s Revolve, charge & corporate card portfolio to the new payment services platform based on Oracle. Responsible for the end to end delivery of migration and reconciliation.
+
+? Lead business intelligence initiative a Financial Services company in Belgium. The project aimed at the implementing the BI solution based on Teradata FSLDM for their investment and trading data, with analytics delivered through Hyperion. 
+? [Large European Insurance company in Belgium | Delivery Manager] Successfully delivered multiple migrations using PowerExchange Batch & PowerCenter to migrate multiple portfolios as a result of a merger. Project delivered in-time and secured the bonus for on-time delivery. 
+? Has worked as a Solution Architect in a conversion project for the Risk Management solution. The project was aimed at migrating ALM solution from Oracle Express to Oracle 10g BI platform. 
+? As a Data Migration Consultant for an Energy Distribution Company in UK. Project was aimed at integrating the legacy data into a new Enterprise Asset & Work Management (EAM) system. 
+? [Client: a Utility Company in UK | Project: CDC & NRT ETL solution pilot | Role: Technical Lead – ETL]  Successfully lead a consulting assignment for evaluating different options for near Real-time data integration and Change data Capture (CDC). Responsible for configuration of PowerExchange & PowerCenter, POC execution and delivering solution architecture for DI solution.
+? [Client: Large Health Insurance Player in UK | Project: Siebel CRM implementation | Role: ETL Consultant] Delivered data integration solutions in Informatica, Trillium & Siebel EIM as a part of Siebel CRM & Siebel Analytics solution implementation. Project aimed at delivering single customer view by integrating customer, assets & transactional data from legacy & third party apps to Siebel CRM to Siebel Warehouse.  
+? Delivered a data migration solution in Informatica for a large financial services company in UK to migrate the pension data from legacy systems to a new pension system hosted on Oracle. Primary responsibilities are the installation, configuration of PowerCenter, Design & build of ETL batches and reconciliation.
+? Started career as a database programmer for a large telecom service provider in India on different projects and roles as PL/SQL and Pro* C Developer and as a DBA.
+","? Have successfully delivered multiple consulting engagements in data & analytics space to customers in Pharma, Retail, Insurance (Lloyds) & Aviation with assignments focussed on data & analytics platforms on cloud, migration strategies, analytics roadmap, EDW assessment, self-service BI solutions and advanced analytics solutions.
+? Delivered challenging projects in data integration and business intelligence in different capacities and roles. Played different roles like Data architect, Delivery lead, Solution Architect, ETL Designer and Delivery Manager. 
+? Experience in Exploratory Data Analysis, Statistical methods, Dimensionality Reduction, Predictive Analytics, Machine learning algorithms (Clustering, Classification, Regression, Tree Models and SVMs). 
+? Hands on professional with experience data management, Business Intelligence & Data visualization tools
+? Well versed with agile methodologies, processes and tools for project and program management.
+","? Machine Learning Workbench: Alteryx, Azure ML Studio, Azure ML Workbench & Jupyter
+? Data Analysis: R, Python, SQL, DAX, SAS
+? Statistics: Inferential statistics, EDA, Hypothesis testing
+? Data Visualization: Power BI, Tableau & R
+? BI Reporting: SAP BO, OBIEE
+? Data Engineering: Informatica, OWB, Talend & AWS Glue
+? Databases: Oracle, SQL Server, MySQL, Teradata
+? Programming: PL/SQL, Shell Scripts, Perl & Awk
+? Project Management: Agile, CSM, CI/CD
+? Cloud: Data & AI offerings in AWS & Azure.",
+Radhika Ramachandran,radhika.r244@gmail.com,Bangalore,9482224368,"• Senior Technical Lead with 12+ years of versatile experience in IT industry
+• Excellent analytical and problem solving skills and ability to learn new technologies.
+• Applied skills in SDLC, Product Requirement Document and agile methodologies for operational efficiency
+• Possess good experience in Software development management, Delivery management and Client\Partner Interfacing
+","• PG Diploma in Data Science IIIT-Bangalore & UpGrad   I  CGPA 3.35 / 4            Since July 2017
+A comprehensive 11-month program taught by Industry experts and IIITB faculty; 7 case studies & projects; 400+ hours of academic learning & 30+ hours of industry mentoring
+Consistently scored 100 percent on all projects for data management, statistics and predictive analytics courses
+• Master of Computer Applications , Cochin University of Science and Technology          1997 - 2000      
+• BSc[Hons] in Mathematics, Sri Sathya Sai Institute of Higher Learning                              1992 -1996
+
+","• Modelled using Linear Regression, the price of cars based on the factors on which the pricing of a car depends for a Chinese automobile company Geely Auto aspires to enter the US market by setting up their manufacturing unit there and producing cars locally to give competition to their US and European counterparts. 
+• Implemented a HR analytics Model using Logistic Regression, to understand the factors to focus on, in order to curb attrition with an accuracy of 73.7%.
+•  Customer Churn Model: Predicted telecom customers likely to churn with70% accuracy by analyzing 7000+ customers’ data; identified best model out of KNN, Naïve Bayes, Logistic, and SVM 
+",,,"HCL TECHNOLOGIES, Bangalore
+Senior Technical Lead, Dec 2009– Till Date
+Company Profile: HCL Technologies is a leading offshore IT & software development company which offers various services like Enterprise and Applications Consulting, Remote Infrastructure Management, outsourcing software, R&D and Technology Services, Enterprise and Applications Consulting, Remote Infrastructure Management, BPO services and many more.
+Project: DARE
+Technology : PL/SQL
+Database : Oracle 11g
+Duration : Oct2014 – till date 
+
+
+Achievements:
+? Lead the SDLC quality audit and delivered technical solutions to the expectations of the Client and thereby improving client satisfaction index by 97.63%.
+? Provided leadership to the Development team in Bangalore and rendered productivity enhancement feedback
+to the team members 
+? Delivered the client the requested enhancements with the best solution and no defects.
+
+Description: DARE (Database for a Risk Reporting & Performance Calculation Environment) process all daily and monthly reporting requirements for Business Area Controlling (Germany) CIB S&T, Deutsche bank. To ensure clean data, Debt Securities Accounting Services (DSAS) uses DARE as their main automated reconciliation platform on a daily basis. Another main focus of DARE is data pooling and historical & performance calculation. 
+The data received in DARE consist of Positions COB, Trade COB, Prices, P&L, and Cash flows, Account Balances, Account Transactions, FX-Rates, Interest & Forward Rates and Future Prices. This data will be made available to DARE either via direct database links or through ASCII / flat files. Relevant data is imported primarily daily via automated scheduled processes within DARE. DARE performs reconciliation between Frontend, Backend, Ledger and other Reporting Systems for cleansed and adjusted data
+
+Project: RISE
+Technology : PL/SQL
+Database : Oracle 11g
+Duration : Sep2012 – Oct2014 
+
+Achievements:
+? Provided leadership to the Development team in Bangalore Liaising with onsite teams to ensure alignment of deliverables to business requirements
+? Effectively implemented backend maintenance functionalities of the project end to end by implicit compliance to the SDLC process.
+? Led a team of 9, monitored the performance of team members and rendered productivity enhancement feedback
+
+Description: RISE (Retail Information System Evolution) is the store system for 7-Eleven. SEI - 7-Eleven, primarily operating as a franchise, is the world's largest operator, franchisor and licensor of convenience stores, with more than 46,000 outlets. The American subsidiary of the Japanese firm has its headquarters in Dallas, Texas. The Current Store System has been built over the period of years and has applications running on UNIFACE (4GL programming language).The objective of RISE was to migrate from legacy programming language Uniface to .NET 4.0/ ORACLE 11g. Involved in the Master Maintenance Functionality (MMF) of RISE project, which is the core of back office. MMF includes all the batches for the jobs run overnight in the store. Requirements gathered from the Uniface batches were designed and developed in oracle.
+
+Project: Venus
+Technology : VB 6.0, COM 
+Database : Oracle 
+Duration : Jan2011 – Jun 2012
+
+Achievements:
+? Implemented the client the requested enhancements with the best solution and no defects.
+? Received appreciations for the good work from the client.
+
+Description: Venus is a personal banking application for wealth management in ANZ. The main modules involved were KYC(Know Your Client), Deposits, Loans, Securities. KYC stores information about the customer to provide more value added services to customer in personal banking and enables the bank to meet country specific Anti – Money Laundering requirements. There are different types of deposits available in Venus at specific rate of interest like Fixed Deposit, Dual Currency Deposit and structured Deposit. Securities in Venus are Bonds, Notes, shares of companies, Equities, Foreign Exchange. Loans provided to customers are mapped to their collateral in Venus. The concept Portfolio is used to track loan and pledged collateral. Every portfolio has loan with pledged collaterals. Each customer has a default portfolio which includes all unpledged collaterals. The reports for the customers are also generated from Venus.
+
+Project: IPB DPS
+Technology : VB 6.0, COM
+Database : Oracle
+Duration : Mar2010 – Dec 2010
+
+Achievements:
+? Implemented the client the requested enhancements with the best solution and no defects.
+
+Description: IPB DPS (International Prime Brokerage Dividend Processing System) is an entitlement processing engine used in Deutsche bank to calculate dividends and coupons for prime brokerage clients only. The services provided under prime brokering are Clearance & Settlement, securities lending, trade executions, and cash management among other things like consolidated portfolio reporting, Fund administration and corporate actions. Its purpose is to allow processing of Dividends and coupons with payments being made to the client in his or her domiciled country whilst applying the proper tax treatments for that country.  
+
+EPIANCE SOFTWARE PVT.LTD, Bangalore
+Development Engineer, Dec 2005 – Nov 2009
+Company Profile: Epiance Software Pvt Ltd is a product based company headquartered in Bangalore, India. The Key Product of Epiance, epiplex is a suite of products which provides business process performance solutions.
+
+Achievements
+? Drove automation activities as an additional responsibility along with product development.
+? Improved the look and feel of the products.
+? Designed and developed a test tool with user friendly UI for ease use of testers
+? Liaised with cross functional teams (marketing, QA and architects) as per business requirements.
+
+Project: Processor Editor
+Technology : VB 6.0, COM
+Duration : Sep 2007 – Nov2009
+Product : epiplex500
+
+Description: epiplex500 is complete enterprise systems knowledge, training and process improvement solution. It has a capture technology that records user actions on a software application, which can be simulated and also documented using the specific editors of the product. Processor Editor is one of the editors where in the capturing technology is applied at the backend. The Processor Editor provides the options for capturing, saving the recorded events and editing captured events. Handled different modules of this editor effectively and was involved in introducing new features to the editor. One of the features includes attaching audio to the recorded user action and editing the same etc.
+
+Project: Simulation and Documenter Editor- (epiSimDoc)
+Technology : VB 6.0, HTML, JavaScript
+Duration : Sep 2007 – Nov2008
+Product : epiplex500
+
+Description: EpiSimDoc Editor is an authorizing tool for creating Knowledge Objects or content files. The following Knowledge Objects can be created using EpiSimDoc Editor:  epiLearn, Document and Macromedia Flash movie. EpiLearn HTML Knowledge Object is a browser based Knowledge Object that displays the on-screen interactions as a series of annotated images in the form of simulated Show, Guide and Test.EpiLearn can be generated and launched either on a Local system or Intranet or on the Internet.  Documenter is used to create a Step-by-Step Document, of the actions performed by the user. Documenter can be used to produce Documentations in HTML, Microsoft Word and XML formats.
+
+Project: ScreenDataGenerator
+Technology : VB.net, Rationalrobot
+Duration : 5months
+Product : epiplex500
+
+Description: This tool was created with an aim to reduce the learning curve for testers in creating and running scripts using rationalrobot for automated testing. A tester can design the flow of testing by using the flow tool in the editor. The flow controls are nothing but different building blocks in creating Rationalrobot script to navigating or verify different screens of the application. The flows are saved in xml format. The editor is provided with a script generating tool which generates the Rationalrobot script from the flows generated and gives the option to run the script through Rationalrobot from the editor and saves the result in xml format. Editor has an option to view the result which is styled with XSL. 
+
+Project: EpiFlashDesign
+Technology : Rationalrobot
+Duration : 8months
+Database : Oracle
+
+Description: This was an automation testing tool for testing one of Epiance's product epilearn developed in flash. Rationalrobot was not directly recognized by epilearn’s controls and interaction was not possible through Rationalrobot for product testing. A breakthrough was done by introducing a hidden textbox in the product which was recognized by rationalrobot. For any action to be performed rationalrobot set the textbox with the required commands and flash program would read and perform the corresponding actions. Similarly the flash control provides updates that are captured by rationalrobot interacting through the textbox that were set by flash objects.
+
+Project: SourceSafe Resource update
+Technology : ASP, VB6.0, JavaScript, HTML
+Duration : 2 months
+Database : Oracle
+
+Description: This is an enhancement to the software used by the release team. In the existing system, a developer in addition to checking in files to the SourceSafe, need to submit the files that have changed when the new build is created. A VB tool creates a batch file which on execution checks out the respective files to the working folder in the build machine and further copies to the locale path for the build creation. But the resources were copied manually for each locale, in corresponding paths of the build machine. This tedious task of copying the individual resource files to the respective locale paths was automated in this project. An Html document was created for each build giving the details of files and resources submitted for the current build. The administrator alone has the privileges to clear the database and send mails to users.
+
+Project: GPSCompare
+Technology : VB 6.0, COM
+Duration : 1month
+Database : Oracle
+
+Description: The product Epiplex of Epiance captures each user action and stores as a GPS file, which is an xml file. The DLL is used by the testing team to validate the details captured by Epiplex. It compares two GPS files with reference to a template GPS file, where the user can specify the preference for the comparison of the GPS files based on the node. Every node of GPS need not be matched like the time of capture.  If the rule specified for a particular node matches between the two GPS file then the comparison switches to next node and continued till all nodes are traversed and being matched else it exits at the node where a mismatch is found and prompts the mismatch in GPS file. The rule may be multiple, separated by a separator. The rules can be specified in an INI file format, which will be verified for the comparison of nodes in GPS files.
+
+Project: Test Coverage Tool
+Technology : VB 6.0
+Duration : 4-5months
+Database : Oracle
+
+Description: The Software is used for the tracking and reporting of the testing done at various levels for a particular product. Using the software a defect can be reported for a particular test case with the details rooting from the cycle, product, feature and scenario. A report is generated in Excel for documenting the test report.
+
+Varier Datomat Pvt Ltd, Kannur, Kerala 
+Software Engineer, Aug 2004 – Jun 2005
+Company Profile: Varier Datomat (P) Ltd is a private limited company incorporated in November 1983 at Cochin under the companies Act, 1956 with the primary objective of software development for business applications.  
+
+Achievements
+? Conducted need based training sessions for team members aligned to business requirements.
+? Involved in understanding client requirements, planning, estimation, task allocation, tracking & status reporting.
+? Reviewed system design and code. 
+
+Project: Textile Export Management Software
+Technology : VB 6.0
+Duration : 6months
+Database : Oracle
+
+Description: The software is office automation for Handlooms and Textile Exporters. Various modules involved are Production Monitoring, Material issuing& receipts, Buyer order information, Purchases, Export, Invoicing and Inventory Control. Report preview/printing is done using custom-made tools. The same software was tailored for different clients in Kannur.
+
+Project: Wholesale Trading and Distribution
+Technology : VB 6.0
+Duration : 5months
+Database : Oracle
+
+Description: The client is a leading distributor of Home Appliances at Kannur. The software takes into account various aspects of Purchases, Sales Invoices, Financial Accounting, Inventory Control and MIS. Reporting. Custom-made tools are used for preview / printing. 
+","• Machine Learning Modelling Techniques  • Analytics Languages: R (Intermediate), Python (Introductory)
+• Visualization tools: Tableau, R     • HCl Agile Certification 
+• Hypothesis Testing    • Databases: Oracle 11g, PLSQL
+• Statistics & Exploratory Data Analysis • Programming: VB.Net, VB 6.0, COM, JavaScript, VBScript, HTML
+• Web Technologies: ASP, ASP.Net  • Software Development Life Cycle (SDLC)
+","• Awarded for the phenomenal feat of receiving the top-most performance rating for two consecutive years 
+• Received appreciations and award for best performance from the Client – NEC India 
+
+"
