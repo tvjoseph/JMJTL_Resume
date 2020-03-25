@@ -1,0 +1,481 @@
+Ashish Malhotra
++1 5108097665; ashish42@gmail.com; Minneapolis
+
+PROFILE SUMMARY
+
+ 
+
+e Seasoned IT professional with 19 years of experience, upskilled in Data Science — R, Excel, Tableau, Statistics etc. Deep
+skills in SQL, Microsoft SharePoint, Office 365 and Azure.
+
+e Looking for a meaningful transition to full time Digital Transformation Solution Expert by leveraging existing technology
+experience across domains and Data Science and Analytics skills acquired.
+
+e Working as Senior Technology Architect with Infosys since 2006. Successfully delivered multiple projects across clients
+based out of India and USA.
+
+ACADEMIC CREDENTIALS
+
+ 
+
+e PG Diploma in Data Analytics | IIIT-Bangalore & UpGrad | CGPA 3.5/4 Since Sep 2017
+A comprehensive 11-month program taught by Industry experts and IIITB faculty; 7 case studies & projects; 400+ hours of
+academic learning & 30+ hours of industry mentoring
+Master of Information Technology | First Class with Honors |1997-1999 | Punjab Technical University, Jullandhar
+
+e  B.E. (Electronics) | First Class |1993-1997 | Pune University
+
+KEY PROJECTS
+
+ 
+
+e Uber Cab Demand and Supply Gap Analysis — Uncovered the demand supply gap for cabs at Airport and city during peak
+hours and recommendation to reduce the gap. Worked on Business problem understanding, Data Cleaning, Data
+Preparation, Data Analysis, Univariate and Bivariate Analysis and reporting to arrive at recommendations based on actual
+data points
+
+e Employee Attrition Case Study — Logistics Regression analysis and Model preparation was done to predict employees
+most likely to leave the organization and providing crucial inputs to organization’s HR department define strategy and
+plan accordingly to control attrition.
+
+e Loan Default Case Study for a leading Bank — Identified customer attributes such as income range, experience level etc.
+that provide indication on possibility of Loan default. Extensive univariate and bivariate analysis conducted on about
+40,000 customer records.
+
+WORK EXPERIENCE
+
+_
+
+SharePoint Architect, Infosys Limited, Minneapolis Area Oct2016-Till Date
+
+Client: Leading Health Care client in Pharmacy Benefits Management area
+
+e Architected, Designed and led implemented Client Collaboration Portal using SharePoint 2016. Moving away from Email,
+FTP mode of communication, this platform effectively provided a streamlined way using a web based channel to exchange
+PHI and non-PHI information efficiently and securely.
+
+e No more duplication of content, multiple version of data and ability to quickly find content, audit trail were the key
+takeaways on top of ability to share relevant news and Joint Event scheduling and management between organization and
+its multiple clients.
+
+e Lead ateam of 7 members from USA to deliver this project. Also played client interaction role from onsite.
+
+e Currently leading the transition to Support phase. You should include 2/3 roles like this in the work experience section
+depending upon your total experience. In each experience highlight the key achievements and results you have got. Try to
+not talk a lot about roles and responsibilities. It is your results that tell what you are capable of not your R&R. Some sample
+points are included below to help you out on how to think and write. Note how each point is result oriented, starts with an
+action verb and has a tangible numeric result on it.
+
+SharePoint Architect, Infosys Limited, Seattle Area Jun2016-Sep2016
+
+Client: Leading Software Provider
+
+e Performed As-ls Analysis of multiple content sites and proposed migration strategy, consolidation plan to bring all the
+relevant sites used on day to day basis under a single umbrella site for department
+
+e Discovered and analysed 1.2 TB of content spread across 50+ sites including One Note files ranging multiple GB in size.
+
+e Proposed and rationalized content to be migrated to 600GB — 50% reduction of content to be migrated.
+
+e Ontime delivery by getting client buy in from various stake holders, participation and timely assessment of available off the
+shelf tools and their limitations to migrate content files ranging in multiple GB per file.
+
+SharePoint Architect, Infosys Limited, Houston Area May2012-May2016
+Client: Leading Aviation Charter Services Providere Project 1 - Architected and implemented Portal site using latest SharePoint Technologies. Helped client move over from
+legacy Intranet based on PHP and Linux platform and embrace contemporary technologies with an element of Social
+features
+
+e Project 2 - Architected comprehensive and highly maintainable Collaboration platform with multiple boiler plate templates
+for Basic and Advanced collaboration needs. These templates provide some level of customization but are still tightly
+controlled to allow proliferation of collaboration sites — Long term and ad-hoc and at the same time managing maintenance
+and support cost and efforts. Highly automated provisioning and monitoring using PowerShell
+
+e Project 3 —Architected and implemented Digital Signage solution using Scala Technologies for sharing information across
+global location via large TV screens. This effectively helped organization to flash the latest updates, Message from senior
+Management and local leaders, Local News, Weather, Organizational updates effectively by placing the Large Screen TVs on
+areas frequented by employees such as Office reception, Cafeteria etc. This solution effectively complemented the Intranet
+Portal and Collaboration platform to share information with employees and visitors.
+
+KEY SKILLS
+
+e Machine Learning Modelling Techniques (Intermediate)
+
+e Analytics Languages: R (Intermediate), Python (Introductory)
+e Visualization tools: Tableau(Intermediate)
+
+¢ Hypothesis Testing (Intermediate)
+
+* Statistics & Exploratory Data Analysis(Intermediate)
+
+°* Programming: C#, HTML, JavaScript
+
+* Databases: SQL Server 2008,2012, MySQL
+
+¢ Automation: PowerShell
+¢ Web Technologies: ASP.Net e Software Development Life Cycle (SDLC), Agile, ALM
+
+CERTIFICATIONS
+
+ 
+
+Certifications on Microsoft SharePoint, .NETAshish Malhotra
++1 5108097665; ashish42@gmail.com; Minneapolis
+
+PROFILE SUMMARY
+
+ 
+
+e Seasoned IT professional with 19 years of experience, upskilled in Data Science — R, Excel, Tableau, Statistics etc. Deep
+skills in SQL, Microsoft SharePoint, Office 365 and Azure.
+
+e Looking for a meaningful transition to full time Digital Transformation Solution Expert by leveraging existing technology
+experience across domains and Data Science and Analytics skills acquired.
+
+e Working as Senior Technology Architect with Infosys since 2006. Successfully delivered multiple projects across clients
+based out of India and USA.
+
+ACADEMIC CREDENTIALS
+
+ 
+
+e PG Diploma in Data Analytics | IIIT-Bangalore & UpGrad | CGPA 3.5/4 Since Sep 2017
+A comprehensive 11-month program taught by Industry experts and IIITB faculty; 7 case studies & projects; 400+ hours of
+academic learning & 30+ hours of industry mentoring
+Master of Information Technology | First Class with Honors |1997-1999 | Punjab Technical University, Jullandhar
+
+e  B.E. (Electronics) | First Class |1993-1997 | Pune University
+
+KEY PROJECTS
+
+ 
+
+e Uber Cab Demand and Supply Gap Analysis — Uncovered the demand supply gap for cabs at Airport and city during peak
+hours and recommendation to reduce the gap. Worked on Business problem understanding, Data Cleaning, Data
+Preparation, Data Analysis, Univariate and Bivariate Analysis and reporting to arrive at recommendations based on actual
+data points
+
+e Employee Attrition Case Study — Logistics Regression analysis and Model preparation was done to predict employees
+most likely to leave the organization and providing crucial inputs to organization’s HR department define strategy and
+plan accordingly to control attrition.
+
+e Loan Default Case Study for a leading Bank — Identified customer attributes such as income range, experience level etc.
+that provide indication on possibility of Loan default. Extensive univariate and bivariate analysis conducted on about
+40,000 customer records.
+
+WORK EXPERIENCE
+
+_
+
+SharePoint Architect, Infosys Limited, Minneapolis Area Oct2016-Till Date
+
+Client: Leading Health Care client in Pharmacy Benefits Management area
+
+e Architected, Designed and led implemented Client Collaboration Portal using SharePoint 2016. Moving away from Email,
+FTP mode of communication, this platform effectively provided a streamlined way using a web based channel to exchange
+PHI and non-PHI information efficiently and securely.
+
+e No more duplication of content, multiple version of data and ability to quickly find content, audit trail were the key
+takeaways on top of ability to share relevant news and Joint Event scheduling and management between organization and
+its multiple clients.
+
+e Lead ateam of 7 members from USA to deliver this project. Also played client interaction role from onsite.
+
+e Currently leading the transition to Support phase. You should include 2/3 roles like this in the work experience section
+depending upon your total experience. In each experience highlight the key achievements and results you have got. Try to
+not talk a lot about roles and responsibilities. It is your results that tell what you are capable of not your R&R. Some sample
+points are included below to help you out on how to think and write. Note how each point is result oriented, starts with an
+action verb and has a tangible numeric result on it.
+
+SharePoint Architect, Infosys Limited, Seattle Area Jun2016-Sep2016
+
+Client: Leading Software Provider
+
+e Performed As-ls Analysis of multiple content sites and proposed migration strategy, consolidation plan to bring all the
+relevant sites used on day to day basis under a single umbrella site for department
+
+e Discovered and analysed 1.2 TB of content spread across 50+ sites including One Note files ranging multiple GB in size.
+
+e Proposed and rationalized content to be migrated to 600GB — 50% reduction of content to be migrated.
+
+e Ontime delivery by getting client buy in from various stake holders, participation and timely assessment of available off the
+shelf tools and their limitations to migrate content files ranging in multiple GB per file.
+
+SharePoint Architect, Infosys Limited, Houston Area May2012-May2016
+Client: Leading Aviation Charter Services Providere Project 1 - Architected and implemented Portal site using latest SharePoint Technologies. Helped client move over from
+legacy Intranet based on PHP and Linux platform and embrace contemporary technologies with an element of Social
+features
+
+e Project 2 - Architected comprehensive and highly maintainable Collaboration platform with multiple boiler plate templates
+for Basic and Advanced collaboration needs. These templates provide some level of customization but are still tightly
+controlled to allow proliferation of collaboration sites — Long term and ad-hoc and at the same time managing maintenance
+and support cost and efforts. Highly automated provisioning and monitoring using PowerShell
+
+e Project 3 —Architected and implemented Digital Signage solution using Scala Technologies for sharing information across
+global location via large TV screens. This effectively helped organization to flash the latest updates, Message from senior
+Management and local leaders, Local News, Weather, Organizational updates effectively by placing the Large Screen TVs on
+areas frequented by employees such as Office reception, Cafeteria etc. This solution effectively complemented the Intranet
+Portal and Collaboration platform to share information with employees and visitors.
+
+KEY SKILLS
+
+e Machine Learning Modelling Techniques (Intermediate)
+
+e Analytics Languages: R (Intermediate), Python (Introductory)
+e Visualization tools: Tableau(Intermediate)
+
+¢ Hypothesis Testing (Intermediate)
+
+* Statistics & Exploratory Data Analysis(Intermediate)
+
+°* Programming: C#, HTML, JavaScript
+
+* Databases: SQL Server 2008,2012, MySQL
+
+¢ Automation: PowerShell
+¢ Web Technologies: ASP.Net e Software Development Life Cycle (SDLC), Agile, ALM
+
+CERTIFICATIONS
+
+ 
+
+Certifications on Microsoft SharePoint, .NETAshish Malhotra
++1 5108097665; ashish42@gmail.com; Minneapolis
+
+PROFILE SUMMARY
+
+ 
+
+e Seasoned IT professional with 19 years of experience, upskilled in Data Science — R, Excel, Tableau, Statistics etc. Deep
+skills in SQL, Microsoft SharePoint, Office 365 and Azure.
+
+e Looking for a meaningful transition to full time Digital Transformation Solution Expert by leveraging existing technology
+experience across domains and Data Science and Analytics skills acquired.
+
+e Working as Senior Technology Architect with Infosys since 2006. Successfully delivered multiple projects across clients
+based out of India and USA.
+
+ACADEMIC CREDENTIALS
+
+ 
+
+e PG Diploma in Data Analytics | IIIT-Bangalore & UpGrad | CGPA 3.5/4 Since Sep 2017
+A comprehensive 11-month program taught by Industry experts and IIITB faculty; 7 case studies & projects; 400+ hours of
+academic learning & 30+ hours of industry mentoring
+Master of Information Technology | First Class with Honors |1997-1999 | Punjab Technical University, Jullandhar
+
+e  B.E. (Electronics) | First Class |1993-1997 | Pune University
+
+KEY PROJECTS
+
+ 
+
+e Uber Cab Demand and Supply Gap Analysis — Uncovered the demand supply gap for cabs at Airport and city during peak
+hours and recommendation to reduce the gap. Worked on Business problem understanding, Data Cleaning, Data
+Preparation, Data Analysis, Univariate and Bivariate Analysis and reporting to arrive at recommendations based on actual
+data points
+
+e Employee Attrition Case Study — Logistics Regression analysis and Model preparation was done to predict employees
+most likely to leave the organization and providing crucial inputs to organization’s HR department define strategy and
+plan accordingly to control attrition.
+
+e Loan Default Case Study for a leading Bank — Identified customer attributes such as income range, experience level etc.
+that provide indication on possibility of Loan default. Extensive univariate and bivariate analysis conducted on about
+40,000 customer records.
+
+WORK EXPERIENCE
+
+_
+
+SharePoint Architect, Infosys Limited, Minneapolis Area Oct2016-Till Date
+
+Client: Leading Health Care client in Pharmacy Benefits Management area
+
+e Architected, Designed and led implemented Client Collaboration Portal using SharePoint 2016. Moving away from Email,
+FTP mode of communication, this platform effectively provided a streamlined way using a web based channel to exchange
+PHI and non-PHI information efficiently and securely.
+
+e No more duplication of content, multiple version of data and ability to quickly find content, audit trail were the key
+takeaways on top of ability to share relevant news and Joint Event scheduling and management between organization and
+its multiple clients.
+
+e Lead ateam of 7 members from USA to deliver this project. Also played client interaction role from onsite.
+
+e Currently leading the transition to Support phase. You should include 2/3 roles like this in the work experience section
+depending upon your total experience. In each experience highlight the key achievements and results you have got. Try to
+not talk a lot about roles and responsibilities. It is your results that tell what you are capable of not your R&R. Some sample
+points are included below to help you out on how to think and write. Note how each point is result oriented, starts with an
+action verb and has a tangible numeric result on it.
+
+SharePoint Architect, Infosys Limited, Seattle Area Jun2016-Sep2016
+
+Client: Leading Software Provider
+
+e Performed As-ls Analysis of multiple content sites and proposed migration strategy, consolidation plan to bring all the
+relevant sites used on day to day basis under a single umbrella site for department
+
+e Discovered and analysed 1.2 TB of content spread across 50+ sites including One Note files ranging multiple GB in size.
+
+e Proposed and rationalized content to be migrated to 600GB — 50% reduction of content to be migrated.
+
+e Ontime delivery by getting client buy in from various stake holders, participation and timely assessment of available off the
+shelf tools and their limitations to migrate content files ranging in multiple GB per file.
+
+SharePoint Architect, Infosys Limited, Houston Area May2012-May2016
+Client: Leading Aviation Charter Services Providere Project 1 - Architected and implemented Portal site using latest SharePoint Technologies. Helped client move over from
+legacy Intranet based on PHP and Linux platform and embrace contemporary technologies with an element of Social
+features
+
+e Project 2 - Architected comprehensive and highly maintainable Collaboration platform with multiple boiler plate templates
+for Basic and Advanced collaboration needs. These templates provide some level of customization but are still tightly
+controlled to allow proliferation of collaboration sites — Long term and ad-hoc and at the same time managing maintenance
+and support cost and efforts. Highly automated provisioning and monitoring using PowerShell
+
+e Project 3 —Architected and implemented Digital Signage solution using Scala Technologies for sharing information across
+global location via large TV screens. This effectively helped organization to flash the latest updates, Message from senior
+Management and local leaders, Local News, Weather, Organizational updates effectively by placing the Large Screen TVs on
+areas frequented by employees such as Office reception, Cafeteria etc. This solution effectively complemented the Intranet
+Portal and Collaboration platform to share information with employees and visitors.
+
+KEY SKILLS
+
+e Machine Learning Modelling Techniques (Intermediate)
+
+e Analytics Languages: R (Intermediate), Python (Introductory)
+e Visualization tools: Tableau(Intermediate)
+
+¢ Hypothesis Testing (Intermediate)
+
+* Statistics & Exploratory Data Analysis(Intermediate)
+
+°* Programming: C#, HTML, JavaScript
+
+* Databases: SQL Server 2008,2012, MySQL
+
+¢ Automation: PowerShell
+¢ Web Technologies: ASP.Net e Software Development Life Cycle (SDLC), Agile, ALM
+
+CERTIFICATIONS
+
+ 
+
+Certifications on Microsoft SharePoint, .NETAshish Malhotra
++1 5108097665; ashish42@gmail.com; Minneapolis
+
+PROFILE SUMMARY
+
+ 
+
+e Seasoned IT professional with 19 years of experience, upskilled in Data Science — R, Excel, Tableau, Statistics etc. Deep
+skills in SQL, Microsoft SharePoint, Office 365 and Azure.
+
+e Looking for a meaningful transition to full time Digital Transformation Solution Expert by leveraging existing technology
+experience across domains and Data Science and Analytics skills acquired.
+
+e Working as Senior Technology Architect with Infosys since 2006. Successfully delivered multiple projects across clients
+based out of India and USA.
+
+ACADEMIC CREDENTIALS
+
+ 
+
+e PG Diploma in Data Analytics | IIIT-Bangalore & UpGrad | CGPA 3.5/4 Since Sep 2017
+A comprehensive 11-month program taught by Industry experts and IIITB faculty; 7 case studies & projects; 400+ hours of
+academic learning & 30+ hours of industry mentoring
+Master of Information Technology | First Class with Honors |1997-1999 | Punjab Technical University, Jullandhar
+
+e  B.E. (Electronics) | First Class |1993-1997 | Pune University
+
+KEY PROJECTS
+
+ 
+
+e Uber Cab Demand and Supply Gap Analysis — Uncovered the demand supply gap for cabs at Airport and city during peak
+hours and recommendation to reduce the gap. Worked on Business problem understanding, Data Cleaning, Data
+Preparation, Data Analysis, Univariate and Bivariate Analysis and reporting to arrive at recommendations based on actual
+data points
+
+e Employee Attrition Case Study — Logistics Regression analysis and Model preparation was done to predict employees
+most likely to leave the organization and providing crucial inputs to organization’s HR department define strategy and
+plan accordingly to control attrition.
+
+e Loan Default Case Study for a leading Bank — Identified customer attributes such as income range, experience level etc.
+that provide indication on possibility of Loan default. Extensive univariate and bivariate analysis conducted on about
+40,000 customer records.
+
+WORK EXPERIENCE
+
+_
+
+SharePoint Architect, Infosys Limited, Minneapolis Area Oct2016-Till Date
+
+Client: Leading Health Care client in Pharmacy Benefits Management area
+
+e Architected, Designed and led implemented Client Collaboration Portal using SharePoint 2016. Moving away from Email,
+FTP mode of communication, this platform effectively provided a streamlined way using a web based channel to exchange
+PHI and non-PHI information efficiently and securely.
+
+e No more duplication of content, multiple version of data and ability to quickly find content, audit trail were the key
+takeaways on top of ability to share relevant news and Joint Event scheduling and management between organization and
+its multiple clients.
+
+e Lead ateam of 7 members from USA to deliver this project. Also played client interaction role from onsite.
+
+e Currently leading the transition to Support phase. You should include 2/3 roles like this in the work experience section
+depending upon your total experience. In each experience highlight the key achievements and results you have got. Try to
+not talk a lot about roles and responsibilities. It is your results that tell what you are capable of not your R&R. Some sample
+points are included below to help you out on how to think and write. Note how each point is result oriented, starts with an
+action verb and has a tangible numeric result on it.
+
+SharePoint Architect, Infosys Limited, Seattle Area Jun2016-Sep2016
+
+Client: Leading Software Provider
+
+e Performed As-ls Analysis of multiple content sites and proposed migration strategy, consolidation plan to bring all the
+relevant sites used on day to day basis under a single umbrella site for department
+
+e Discovered and analysed 1.2 TB of content spread across 50+ sites including One Note files ranging multiple GB in size.
+
+e Proposed and rationalized content to be migrated to 600GB — 50% reduction of content to be migrated.
+
+e Ontime delivery by getting client buy in from various stake holders, participation and timely assessment of available off the
+shelf tools and their limitations to migrate content files ranging in multiple GB per file.
+
+SharePoint Architect, Infosys Limited, Houston Area May2012-May2016
+Client: Leading Aviation Charter Services Providere Project 1 - Architected and implemented Portal site using latest SharePoint Technologies. Helped client move over from
+legacy Intranet based on PHP and Linux platform and embrace contemporary technologies with an element of Social
+features
+
+e Project 2 - Architected comprehensive and highly maintainable Collaboration platform with multiple boiler plate templates
+for Basic and Advanced collaboration needs. These templates provide some level of customization but are still tightly
+controlled to allow proliferation of collaboration sites — Long term and ad-hoc and at the same time managing maintenance
+and support cost and efforts. Highly automated provisioning and monitoring using PowerShell
+
+e Project 3 —Architected and implemented Digital Signage solution using Scala Technologies for sharing information across
+global location via large TV screens. This effectively helped organization to flash the latest updates, Message from senior
+Management and local leaders, Local News, Weather, Organizational updates effectively by placing the Large Screen TVs on
+areas frequented by employees such as Office reception, Cafeteria etc. This solution effectively complemented the Intranet
+Portal and Collaboration platform to share information with employees and visitors.
+
+KEY SKILLS
+
+e Machine Learning Modelling Techniques (Intermediate)
+
+e Analytics Languages: R (Intermediate), Python (Introductory)
+e Visualization tools: Tableau(Intermediate)
+
+¢ Hypothesis Testing (Intermediate)
+
+* Statistics & Exploratory Data Analysis(Intermediate)
+
+°* Programming: C#, HTML, JavaScript
+
+* Databases: SQL Server 2008,2012, MySQL
+
+¢ Automation: PowerShell
+¢ Web Technologies: ASP.Net e Software Development Life Cycle (SDLC), Agile, ALM
+
+CERTIFICATIONS
+
+ 
+
+Certifications on Microsoft SharePoint, .NET
