@@ -8,6 +8,7 @@ Lord bless this attempt of yours
 
 import torch
 from pytorch_pretrained_bert import BertTokenizer, BertModel, BertForMaskedLM
+import pandas as pd
 
 # OPTIONAL: if you want to have more information on what's happening, activate the logger as follows
 import logging
@@ -45,3 +46,9 @@ class Model:
         # Convert into a numpy array
         numpy_embedding = sentence_embedding.numpy()
         return numpy_embedding
+
+    def qvectorMaker(self,qlist):
+        tempList = []
+        for list in qlist:
+            tempList.append(self.genMeanvec(list))
+        return pd.DataFrame(tempList)

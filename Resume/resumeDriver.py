@@ -12,7 +12,7 @@ from Modelfiles import Model
 from Datasets import DataProcessor
 
 import pickle
-import torch
+#import torch
 from pytorch_pretrained_bert import BertTokenizer, BertModel, BertForMaskedLM
 from pymongo import MongoClient
 
@@ -113,13 +113,13 @@ for doctype in docTypes:
                 if pred[0] == 'BS':
                     continue
                 else:
-                    indResDic[pred[0]].append(tempVector)
+                    indResDic[pred[0]].append(str(tempVector))
                     indResDic_docs[pred[0]].append(doc)
         # Updating the last dictionary of NER components in the just created dictionary
         indResDic_docs.update(resume[-1])
         # inserting the record into the MOngo DB collections
         db.processedResume.insert_one(indResDic_docs)
-        #db.processedResumeVec.insert_one(indResDic)
+        db.processedResumeVec.insert_one(indResDic)
         # Inserting the details into the lists
     allResume.append(indResDic_docs)
     allResume_vector.append(indResDic)
@@ -130,6 +130,26 @@ print('Resume lenght',len(allResume))
 print(allResume[0])
 #print('Doc list',len(docDocs))
 #print(docDocs[0])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Pickling The resume docs
 
@@ -149,4 +169,5 @@ pickle.dump(allResume, pickle_doc)
 pickle_doc.close()
 
 #input_data = preprocess(default_cfg)
+
 
