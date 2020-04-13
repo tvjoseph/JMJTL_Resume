@@ -1,0 +1,31 @@
+MongoDB for windows - https://www.mongodb.com/download-center/community?jmp=docs
+
+Add MongoDB to Environment:
+         -C:\Program Files\MongoDB\Server\3.4\bin -Get this path copied to a notepad
+         -Select edit the system enviroment variables
+         -On the Advanced tab, click Environment Variables
+	 -Select path and click edit
+         -Click new
+         - Paste "C:\Program Files\MongoDB\Server\3.4\bin" and select ok.
+
+Install pymongo in anaconda prompt
+        - pip install pymongo
+
+Connect to Mongodb from python:
+
+client = MongoClient(port=27017) # defaults to port 27017
+db = client['Database name']
+collection = db["collection name"]
+
+
+
+Connect to mongoDB from cmd:
+
+-mongo
+-show dbs
+-use db
+-show collections
+-
+-db.collection.find({})
+-db.collection.count()
+-db.collection.drop()
