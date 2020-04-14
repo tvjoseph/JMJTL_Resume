@@ -15,6 +15,10 @@ import spacy
 from spacy import displacy
 from collections import Counter
 import en_core_web_sm
+import numpy as np
+import pandas as pd
+from sklearn.metrics.pairwise import cosine_similarity
+
 
 
 class DataProcessor:
@@ -160,6 +164,32 @@ class DataProcessor:
         docDocs = self.docxProcessor()
 
         return pdfDocs,docDocs
+    # This is the method to process each of the collections from Mongodb and the create similarity vectors
+    def dicProcessor(self,collection):
+        # Collection is a list of vectors which is passed for processing
+
+        # Create an empty array same size as the collection
+
+        resCon = np.empty((len(collection), 768), dtype='float')
+
+        # First find the number of vectors in the collection and start a for loop
+        for i in range(len(collection)):
+            # First remove the two square braces on both sides
+            numpStr = collection[i][2:-2]
+            # Convert the string array into a proper array
+            numpar = np.fromstring(numpStr, dtype=float, sep=' ')
+
+            # Store the array in the empty array
+            resCon[i,:] = numpar
+
+        return resCon
+
+    def resSimCreate(self,resConDf,qeryDf):
+        # Find the similarity score for these vectors
+        simDf = pd.DataFrame(cosine_similarity(qeryDf, resConDf))
+        simDf = simDf.T
+        return simDf
+
 
 
 
