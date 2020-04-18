@@ -8,7 +8,7 @@ Lord bless this attempt of yours
 import argparse
 import sys
 from configparser import ConfigParser
-from Modelfiles import Model
+from Modelfiles import Model,scoring,resumeReco
 from Datasets import DataProcessor
 import pickle
 from pytorch_pretrained_bert import BertTokenizer, BertModel, BertForMaskedLM
@@ -16,7 +16,7 @@ from pymongo import MongoClient
 import nltk
 import numpy as np
 import pandas as pd
-from sklearn.metrics.pairwise import cosine_similarity
+
 #nltk.download('punkt')
 
 
@@ -71,43 +71,24 @@ dl = DataProcessor(default_cfg)
 # Start the process of processing each of the vectors in the collection vector
 # Create an empty dictionary to store the scores
 
-resScores = {}
+print('[INFO] Starting the resume scoring process')
 
-for (i,collection) in enumerate(collections.find()):
-    resName = collection['ResumeName'][0]
-    print(resName)
-    # Create an empty data frame
-    resDf = pd.DataFrame()
-    # First take the 'Academic_credentials'
-    if len(collection['Academic_credentials']) > 0:
-        resConDf = dl.dicProcessor(collection['Academic_credentials'])
-        resDf = pd.concat([resDf,dl.resSimCreate(resConDf,qeryDf)])
-    # First take the 'Certifications'
-    if len(collection['Certifications']) > 0:
-        resConDf = dl.dicProcessor(collection['Certifications'])
-        resDf = pd.concat([resDf, dl.resSimCreate(resConDf, qeryDf)])
-    # First take the 'Key_projects'
-    if len(collection['Key_projects']) > 0:
-        resConDf = dl.dicProcessor(collection['Key_projects'])
-        resDf = pd.concat([resDf, dl.resSimCreate(resConDf, qeryDf)])
-    # First take the 'Profile_summary'
-    if len(collection['Profile_summary']) > 0:
-        resConDf = dl.dicProcessor(collection['Profile_summary'])
-        resDf = pd.concat([resDf, dl.resSimCreate(resConDf, qeryDf)])
-    # First take the 'Skills'
-    if len(collection['Skills']) > 0:
-        resConDf = dl.dicProcessor(collection['Skills'])
-        resDf = pd.concat([resDf, dl.resSimCreate(resConDf, qeryDf)])
-    # First take the 'Work_exp'
-    if len(collection['Work_exp']) > 0:
-        resConDf = dl.dicProcessor(collection['Work_exp'])
-        resDf = pd.concat([resDf, dl.resSimCreate(resConDf, qeryDf)])
-    # First take the 'accolades'
-    if len(collection['accolades']) > 0:
-        resConDf = dl.dicProcessor(collection['accolades'])
-        resDf = pd.concat([resDf, dl.resSimCreate(resConDf, qeryDf)])
-    resScores[resName] = resDf
-    print(resDf.shape)
+scoredRes = scoring(dl,collections,qeryDf)
+
+# Next start the process for recommending the resumes
+
+print('[INFO] Starting the resume recommendation process')
+
+recomendations = resumeReco(scoredRes,default_cfg)
+
+print(recomendations)
+
+
+
+
+
+
+'''
 
 # Storing the scores in the pickle file
 
@@ -118,6 +99,8 @@ resFilepath = output_File_Path + '/' + "resDF.pickle"
 resDf_vector = open(resFilepath,"wb")
 pickle.dump(resScores, resDf_vector)
 resDf_vector.close()
+
+'''
 
 
 
